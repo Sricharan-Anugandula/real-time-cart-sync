@@ -1,6 +1,3 @@
-Thanks for the update! Here's the modified **`README.md` description** to reflect **Angular 20** instead of Angular 17:
-
----
 
 ##  Real-Time Cart Sync (Angular 20 + .NET 8)
 
