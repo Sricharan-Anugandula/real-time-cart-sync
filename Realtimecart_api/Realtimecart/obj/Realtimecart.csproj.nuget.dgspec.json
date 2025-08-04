@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DesignPatterns\\Realtimecart\\Realtimecart\\Realtimecart.csproj": {}
+    "E:\\DesignPatterns\\Real-time-cart-sync\\Realtimecart_api\\Realtimecart\\Realtimecart.csproj": {}
   },
   "projects": {
-    "E:\\DesignPatterns\\Realtimecart\\Realtimecart\\Realtimecart.csproj": {
+    "E:\\DesignPatterns\\Real-time-cart-sync\\Realtimecart_api\\Realtimecart\\Realtimecart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DesignPatterns\\Realtimecart\\Realtimecart\\Realtimecart.csproj",
+        "projectUniqueName": "E:\\DesignPatterns\\Real-time-cart-sync\\Realtimecart_api\\Realtimecart\\Realtimecart.csproj",
         "projectName": "Realtimecart",
-        "projectPath": "E:\\DesignPatterns\\Realtimecart\\Realtimecart\\Realtimecart.csproj",
+        "projectPath": "E:\\DesignPatterns\\Real-time-cart-sync\\Realtimecart_api\\Realtimecart\\Realtimecart.csproj",
         "packagesPath": "C:\\Users\\sricharan.anugandula\\.nuget\\packages\\",
-        "outputPath": "E:\\DesignPatterns\\Realtimecart\\Realtimecart\\obj\\",
+        "outputPath": "E:\\DesignPatterns\\Real-time-cart-sync\\Realtimecart_api\\Realtimecart\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
