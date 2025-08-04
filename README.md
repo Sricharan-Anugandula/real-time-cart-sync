@@ -39,6 +39,7 @@ real-time-cart-sync/
 
 ###  Flowchart
 
+<img width="1050" height="795" alt="image" src="https://github.com/user-attachments/assets/b6286532-50c7-42f3-bbb0-0d1cbd5ccbfc" />
 
 
 ---
